@@ -1,0 +1,37 @@
+category,product,userId,eventTime,eventType
+notebooks,MacBook Air,sevak,2018-03-01 12:28:10,dislike
+books,Scala for Dummies,user 100,2018-03-01 12:00:02,view description
+notebooks,MacBook Air,sevak,2018-03-01 12:35:10,dislike
+books,Scala for Dummies,user 100,2018-03-01 12:01:40,like
+books,Scala for Dummies,user 100,2018-03-01 12:01:50,check status
+books,Java for Dummies,user 100,2018-03-01 12:02:14,view description
+books,Java for Dummies,user 100,2018-03-01 12:02:45,dislike
+books,Java for Dummies,user 100,2018-03-01 12:02:50,close description
+notebooks,MacBook Air,sevak,2018-03-01 12:41:10,dislike
+books,Scala for Dummies,user 100,2018-03-01 12:04:30,view description
+books,Scala for Dummies,user 100,2018-03-01 12:06:15,add to bucket
+books,"Sherlock Holmes, full collection",user 200,2018-03-01 12:11:25,view description
+books,"Sherlock Holmes, full collection",user 200,2018-03-01 12:12:15,check status
+books,"Sherlock Holmes, full collection",user 200,2018-03-01 12:13:15,sign for updates
+books,Romeo and Juliet,user 200,2018-03-01 12:15:10,view description
+books,Romeo and Juliet,user 200,2018-03-01 12:15:10,check status
+books,Romeo and Juliet,user 200,2018-03-01 12:15:10,add to bucket
+mobile phones,iPhone X,user 300,2018-03-01 12:05:03,view description
+mobile phones,iPhone X,user 300,2018-03-01 12:05:20,add to bucket
+notebooks,MacBook Air,sevak,2018-03-01 12:20:11,dislike
+mobile phones,iPhone 8 Plus,user 100,2018-03-01 12:06:49,view description
+mobile phones,iPhone 8 Plus,user 100,2018-03-01 12:07:14,add to bucket
+mobile phones,iPhone 8,user 100,2018-03-01 12:08:01,view description
+mobile phones,iPhone 8,user 100,2018-03-01 12:13:10,dislike
+notebooks,MacBook Pro 15,user 100,2018-03-01 12:15:08,view description
+notebooks,MacBook Pro 15,user 100,2018-03-01 12:16:10,check status
+notebooks,MacBook Pro 13,user 200,2018-03-01 12:15:33,view description
+notebooks,MacBook Pro 13,user 200,2018-03-01 12:17:25,like
+notebooks,MacBook Pro 13,user 200,2018-03-01 12:17:56,add to bucket
+notebooks,MacBook Air,user 300,2018-03-01 12:14:58,view description
+notebooks,MacBook Air,user 300,2018-03-01 12:20:10,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:20:10,dislike
+notebooks,MacBook Pro 15,sevak,2018-03-01 12:42:08,view description
+notebooks,MacBook Pro 15,sevak,2018-03-01 12:44:08,view description
+notebooks,MacBook Air,sevak,2018-03-01 12:50:10,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:59:10,dislike

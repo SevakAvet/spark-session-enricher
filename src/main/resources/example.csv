@@ -1,0 +1,9 @@
+category,product,userId,eventTime,eventType
+notebooks,MacBook Air,sevak,2018-03-01 12:55:10,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:35:10,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:20:11,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:41:10,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:20:10,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:28:10,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:45:10,dislike
+notebooks,MacBook Air,sevak,2018-03-01 12:50:10,dislike
