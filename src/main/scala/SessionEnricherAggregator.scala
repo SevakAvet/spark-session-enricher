@@ -55,6 +55,12 @@ object SessionEnricherAggregator {
     }
   }
 
+
+  /**
+    * todo:
+    * try to replace List[SessionBuffer] by SortedSet to keep all session buffers sorted
+    * and get rid of sorting in mergeRanges()
+    */
   class SessionAggregator extends Aggregator[Event, List[SessionBuffer], List[EventSession]] {
     override def zero: List[SessionBuffer] = List.empty
 
